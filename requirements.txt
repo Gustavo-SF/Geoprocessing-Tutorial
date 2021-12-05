@@ -1,0 +1,9 @@
+shapely
+fiona
+folium
+geopandas
+geopy
+matplotlib
+seaborn
+pandas
+mapclassify
