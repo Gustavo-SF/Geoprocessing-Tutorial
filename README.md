@@ -8,4 +8,4 @@ There won't be any source code in this repository, therefore I will have all the
 
 Topics can be found in the folder `tutorials`. The topics are:
 
-1. [General Geoprocessing with Python](https://github.com/Gustavo-SF/Geoprocessing-Tutorial/blob/main/tutorials/General%20Geoprocessing%20with%20Python.ipynb)
+1. [General Geoprocessing with Python](https://github.com/Gustavo-SF/Geoprocessing-Tutorial/blob/main/tutorials/1.%2General%20Geoprocessing%20with%20Python/notebook.py)
